@@ -4,6 +4,7 @@
 
 ## Overview  
 This project analyzes global life expectancy data from 1960 to 2024, providing insights into trends across countries, regions, and income groups. The analysis is performed using Python with libraries like Pandas, NumPy, and visualization tools such as Matplotlib and Seaborn.
+This analysis was done for the Geriatric Health newsletter. 
 
 ---
 
@@ -45,8 +46,19 @@ This project analyzes global life expectancy data from 1960 to 2024, providing i
 
 ---
 
-## Author  
-JBS Research Team  
+## About Me
+I am Adedotun Ayodele a Medical Doctor, Data Professional and Sports Enthusiast. I love digging deep into data to create insights. 
+My main domains are healthcare and sports.
+
+Let’s connect on a deeper level:
+
+Linkedin - https://www.linkedin.com/in/aa-md/
+
+Email - adedotunayodelemd@gmail.com
+
+Youtube - https://www.youtube.com/@medwithcred
+
+Medium - https://medium.com/@adedotunayodelemd 
 
 ---
 
