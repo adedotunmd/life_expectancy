@@ -8,6 +8,11 @@ This analysis was done for the Geriatric Health newsletter.
 
 ---
 
+## Data
+2 Datasets were downloaded - Life expectancy at birth, total (years)  and country code from World Bank - https://data.worldbank.org/indicator/SP.DYN.LE00.IN
+
+---
+
 ## Project Structure  
 - **Data Import**: The dataset is loaded from a CSV file, containing life expectancy metrics for various countries and demographic groups.  
 - **Data Cleaning**: Unnecessary columns are removed, and the dataset is transformed from a wide format to a long format for easier analysis.  
