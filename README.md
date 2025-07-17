@@ -47,8 +47,7 @@ This analysis was done for the Geriatric Health newsletter.
 ---
 
 ## About Me
-I am Adedotun Ayodele a Medical Doctor, Data Professional and Sports Enthusiast. I love digging deep into data to create insights. 
-My main domains are healthcare and sports.
+I’m Adedotun Ayodele, a Medical Doctor with master’s degrees in Public Health and Data Science. I currently serve as the Clinical Director and Head of Data Analytics at JBS Gerontology Centre—the first hospital dedicated to elderly care in West Africa. I’m passionate about advancing data-driven approaches to optimize geriatric health across Africa and founded Elderly Health, a data-focused newsletter addressing critical issues affecting older adults.
 
 Let’s connect on a deeper level:
 
