@@ -1,6 +1,6 @@
 # Life Expectancy Analysis in Python
 <img width="1120" height="500" alt="Life Expectancy by Country 2023" src="https://github.com/user-attachments/assets/eb330d66-e1ed-4a9e-ad79-e8efbcea9d43" />
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7dbf3455-c470-41df-9799-25eb49daa752" />
 
 ## Overview  
 This project analyzes global life expectancy data from 1960 to 2024, providing insights into trends across countries, regions, and income groups. The analysis is performed using Python with libraries like Pandas, NumPy, and visualization tools such as Matplotlib and Seaborn.
