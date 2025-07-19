@@ -1,5 +1,6 @@
 # Life Expectancy Analysis in Python
-![Life Expectancy Map](Life Expectancy by Country 2023.png)
+![Life Expectancy Map](Life%20Expectancy%20by%20Country%202023.png)
+
 
 
 ## Overview  
