@@ -1,5 +1,5 @@
 # Life Expectancy Analysis in Python
-![Life Expectancy Map](https://raw.githubusercontent.com/adedotunmd/life_expectancy/main/Life%20Expectancy%20by%20Country%202023.png)
+![Life Expectancy Map](Life Expectancy by Country 2023.png)
 
 
 ## Overview  
